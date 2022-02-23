@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Glance on the Ecclesiastical Commission being a discourse concerning the power of making and altering ecclesiastical laws, and the settling religion, whether it belongs to our kings alone, and a convocation, or whether it must not be asserted rather no medling with law-making or law-mending, (whether ecclesiastical or temporal), but by authority of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42797</idno>
+            <idno type="STC">Wing G792</idno>
+            <idno type="STC">ESTC R25461</idno>
+            <idno type="EEBO-CITATION">08963570</idno>
+            <idno type="OCLC">ocm 08963570</idno>
+            <idno type="VID">42124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1285:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Glance on the Ecclesiastical Commission being a discourse concerning the power of making and altering ecclesiastical laws, and the settling religion, whether it belongs to our kings alone, and a convocation, or whether it must not be asserted rather no medling with law-making or law-mending, (whether ecclesiastical or temporal), but by authority of Parliament.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Alchorne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Ecclesiastical Commission (1686)</term>
+               <term>Church of England --  Government.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42124:1"/>
+            <pb facs="tcp:42124:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Glance on the Eccleſiaſtical Commiſſion:</hi>
+            </p>
+            <p>BEING A DISCOURSE Concerning the Power of Making and Altering <hi>Eccleſiaſtical Laws,</hi> AND The Settling Religion; Whether it belongs to Our KINGS Alone, AND A CONVOCATION: OR, Whether it muſt not be Aſſerted rather, ☞ <hi>No Medling with Law-Making, or Law-Mending, (whether Eccleſiaſtical or Temporal,) but by Authority of Parliament?</hi>
+            </p>
+            <q>
+               <p>In hoc Reges, ſicut eis Divinitùs praecipitur, Deo ſerviunt in quan<g ref="char:EOLhyphen"/>tum Reges ſunt, ſi in ſuo Regno bona jubeant, mala prohibeant, non ſolum quae pertinent ad humanum Societatem, verum etiam quae pertinent ad Divinam Religionem.</p>
+               <bibl>
+                  <hi>Aug. Cont. Creſ. l. 3. c. 54.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Alchorne,</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42124:2"/>
+            <pb n="3" facs="tcp:42124:2"/>
+            <head>THE RIGHT OF Making and Altering <hi>Eccleſiaſtical Laws,</hi> OR Of Settling Religion, <hi>Where it lies,</hi> DISCOURSED.</head>
+            <p>WHEN the Chriſtian Faith was firſt Embraced by the <hi>Saxons,</hi> nothing had the force of a Canon or Eccleſiaſtical Law, but what was Eſtabliſhed in Par<g ref="char:EOLhyphen"/>liament. <hi>Spelman</hi>'s Counſels, and our Old Hiſtorians, ſuch as <hi>Malmsbury, Hoveden, Weſtminſter, Ingulphus,</hi> ſup<g ref="char:EOLhyphen"/>ply us with innumerable Inſtances of this kind, not mentioning any Canons, but what had a Parliamentary Sanction.</p>
+            <pb n="4" facs="tcp:42124:3"/>
+            <p>The granting Charters of Execution to Abbies, ſeem<g ref="char:EOLhyphen"/>ed more peculiarly to belong to our Kings as Supream Ordinary; yet the principal Grants of this Nature, even that to <hi>Battle Abby,</hi> by <hi>William</hi> the Conquerour, was, <hi>Conſilio Epiſcoporum &amp; Baronum meorum.</hi>
+            </p>
+            <p>After King <hi>William,</hi> the Popes came in time to U<g ref="char:EOLhyphen"/>ſurp ſuch Authority over the Clergy of this Land, as to do even what they pleaſed, until <hi>Henry</hi> the VIII. put an end to that Uſurpation, by aſſuming the Supre<g ref="char:EOLhyphen"/>macy.</p>
+            <p>In this King's Reign (<hi>An.</hi> 25. <hi>c.</hi> 19) an Act of Par<g ref="char:EOLhyphen"/>liament paſſes, which grants to the King a Power to aſſign Thirty Two Commiſſioners, (Sixteen of the Lai<g ref="char:EOLhyphen"/>ety, and Sixteen of the Clergy) to Examine the Canons for the Aboliſhing the Ill, and letting the Good ſtand: And it is Enacted in this Statute, that no Canons ſhall be Made or Executed without the King's Conſent. Up<g ref="char:EOLhyphen"/>on this Clauſe it was, that the Judges in King <hi>James</hi>'s Reign grounded their Sentence, when they gave him ſuch a Power as I ſhall mention when I come to it. But other Lawyers do deny, That any ſuch bare <hi>Nega<g ref="char:EOLhyphen"/>tive Words</hi> can be a Ground ſufficient for raiſing a <hi>Poſi<g ref="char:EOLhyphen"/>tive Rule,</hi> as they then did in this Caſe. It is rather thought better Arguing from this Commiſſion, that no Canons can oblige the Laiety, unleſs their Repreſenta<g ref="char:EOLhyphen"/>tives be at the Making or Eſtabliſhing of them.</p>
+            <p>In <hi>Edward</hi> VI. Time, a like Power is granted to him by an Act, as this was to his Father. Where, Note, That neither <hi>Henry</hi> nor <hi>Edward</hi> had any ſuch Power Inherent to the Crown; for elſe neither of them had need of any Act of Parliament to give it to them.</p>
+            <p>In Queen <hi>Elizabeth</hi>'s Firſt Year, a Bill of the ſame Import was brought into the Houſe, and read Twice,
+<pb n="5" facs="tcp:42124:3"/>and ordered to be Engroſſed, but nothing came of it; which nevertheleſs (though it paſſed not) affords us the ſame Argumentation.</p>
+            <p>In this Year was there an Act of a more grievous na<g ref="char:EOLhyphen"/>ture that paſſed, An Act annexing to the Crown the <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical Juriſdiction,</hi> which enabled Her, her Heirs and Succeſſors, with Authority to aſſign Commiſſioners for the Exerciſe of the ſame. Here ariſes the High-Com<g ref="char:EOLhyphen"/>miſſion Courts, which were ſo great a burden to the Subject, during Her, King <hi>James,</hi> and King <hi>Charles</hi> the Firſt's Reign, until the 17th Year of the ſaid <hi>Charles,</hi> and then was this Power repealed.</p>
+            <p>I muſt take leave here to diſtinguiſh between the Power of <hi>Legiſlation,</hi> whether in Eccleſiaſtical or Civil Matters, and this Power of <hi>Juriſdiction.</hi> When the Par<g ref="char:EOLhyphen"/>liament gave the Queen ſuch a Power, it is not to be underſtood they intended that She, or King <hi>James</hi> ſhould act ſo Deſpotically in Maaters of the <hi>Church</hi> as they did; but that they ſhould have a Power of <hi>Judgment</hi> (or Juriſdiction) only, and not a Power of making any Law Eccleſiaſtical or Temporal, or altering any thing by Law Eſtabliſhed about Religion, or otherwiſe: For ſuch a Power was, and is to be aſſerted always to belong only to Parliaments. And this may be confir<g ref="char:EOLhyphen"/>med by another Act, the Act of <hi>
+                  <g ref="char:V">Ʋ</g>niformity,</hi> made the ſame Year, (<hi>An.</hi> 1. <hi>c.</hi> 2.) wherein She is empowered, with the Advice of her Eccleſiaſtical Commiſſioners and Metropolitan, to Make or Alter any of the Rites and Ceremonies, if ſhe ſaw juſt occaſion. This Power now is different from the former, or elſe it would not be given her in another Act; and it did not belong to her Crown, or elſe it would not be given her at all: And it was no more, but as to Rites and Ceremonies. No<g ref="char:EOLhyphen"/>thing
+<pb n="6" facs="tcp:42124:4"/>elſe required in that Act of Uniformity, or in the Matter of Religion, could be altered by Her, unleſs by Parliament.</p>
+            <p>Nevertheleſs, in the Reign of this Queen, and in King <hi>James</hi>'s, the Two Houſes were in a manner quite neglected in matters Eccleſiaſtical. The Queen ſent forth her <hi>Injunctions;</hi> and her Clergy, under her Name (but not under her Seal, as is ſuſpected by the Learned) gave out their <hi>Advertiſements</hi> and <hi>Articles;</hi> and the Queen her ſelf did even Induſtriouſly endeavour to lay aſide all Parliaments as uſeleſs, when things of this na<g ref="char:EOLhyphen"/>ture were to be conſidered. The Queen (I ſay) was very peremptory, in aſſuming to her ſelf an uncontroul<g ref="char:EOLhyphen"/>able Power in Matters Eccleſiaſtical; but the Commons did the utmoſt they could to maintain their Right, and toward the cloſe of her Highneſſes Reign, obtained it.</p>
+            <p>In the 8th of <hi>Eliz.</hi> Five or Six Bills touching Religi<g ref="char:EOLhyphen"/>on, and Church Government, were read in the Lower Houſe; but becauſe the Houſe was ſuddenly broke up, nothing was done. In the 13. <hi>Eliz.</hi> Seven Bills for Re<g ref="char:EOLhyphen"/>formation of Religion were read, each Bill three times; but it was declared in the Houſe, That Her Majeſty would not ſuffer theſe things to be ordered by Parliaments: Not<g ref="char:EOLhyphen"/>withſtanding which Meſſage (as Sir <hi>Simon Dewes,</hi> in his Journal ſtill has it) the Houſe of Commons proceeded, and ſent up the Bills for Orders of Miniſters, Reſidence of Paſtors, and Commutation of Penance, to the Lords: But the Bill of Subſcription only to the Articles of Faith, and Doctrine of the Sacraments, and not to the Cere<g ref="char:EOLhyphen"/>monies or Government, paſſed this Seſſion. In the 14. <hi>Eliz.</hi> the Commons are on the other Bills again; but the Queen, by Mr. <hi>Speaker,</hi> declares her Pleaſure, That from henceforth no Bills concerning Religion be prefer<g ref="char:EOLhyphen"/>ed,
+<pb n="7" facs="tcp:42124:4"/>or received into the Houſe, unleſs the ſame ſhould be firſt conſidered, and liked by the Clergy.</p>
+            <p>In the 35. <hi>Eliz.</hi> Mr. <hi>Morrice,</hi> Attorney of the Court of <hi>Wards,</hi> ſpoke ſmartly againſt the Subſcription en<g ref="char:EOLhyphen"/>joyned by Regal Authority, and againſt trying the Cler<g ref="char:EOLhyphen"/>gy who refuſed the ſame, by way of Inquiſition: With him concurred Sir <hi>Francis Knowles,</hi> and Mr. <hi>Oliver St. John;</hi> but Sir <hi>Robert Cecil</hi> ſtood up, and told the Houſe, <hi>That though he knew not what was in the Bill which Mr.</hi> Morrice <hi>had brought in, yet he remembred very well, that it being about Religion, Her Majeſty had ſtreightly for<g ref="char:EOLhyphen"/>bidden Them to meddle in ſuch Caſes:</hi> And Her Highneſs ſoon after Commanded Mr. Speaker to declare Her Pleaſure, That no Bill, touching Reformation, be exhi<g ref="char:EOLhyphen"/>bited; and if any were, She charged him, on his Alle<g ref="char:EOLhyphen"/>giance, not to read them. But in the 39. <hi>Eliz.</hi> the Queen conſented, that the Parliament ſhould proceed in the Reformation of the Church.</p>
+            <p>However King <hi>James</hi> coming to the Crown, he ve<g ref="char:EOLhyphen"/>ry ſoon orders a Conference at <hi>Hampton-Court,</hi> and makes Alterations in the <hi>Common-Prayer,</hi> without help of <hi>Parliament;</hi> and carrying it on his own Authority, calls a Convocation, and confirms at once, 140 Canons and Conſtitutions Eccleſiaſtical. In his Second Year he cauſes his Judges to meet, and give their Opinion; and they (notwithſtanding the Onerouſneſs hereof to the Subject) do declare, That the King, without a Parliament, might do thus, that is, Make and Impoſe Canons; and Deprive, in caſe of Non-Obedience. Ob<g ref="char:EOLhyphen"/>ſerve likewiſe, that this was an extrajudicial Opinion, there being no Cauſe depending before them: Such ſlippery Tongues and Judgments have Lawyers, when they are under the Temptation of Flattering Princes. This you have in <hi>Crook</hi>'s <hi>Reports.</hi>
+            </p>
+            <pb n="8" facs="tcp:42124:5"/>
+            <p>After this Sentence, no wonder, that you find the Eccleſiaſticks growing up to an Exorbitancy of Power, during the Reign of this King. And in the Reign of <hi>Charles</hi> the Firſt, <hi>Laud</hi> makes the ſame ſteps. New Conſtitutions are advanced, high enſnaring things de<g ref="char:EOLhyphen"/>viſed; The <hi>Et-cetera Oath,</hi> Sports on the Lord's Days, impoſed. The Nation can't endure it, Stirs are raiſed, a Parliament forced to be called, and they proſecute a Redreſs of theſe Grievances ſo vehemently, that King and Arch-Biſhop, and the whole Hierarchy with Him, is brought to an end.</p>
+            <p>In <hi>Charles</hi> the Second's Reign following, there is this one thing Remarkable, That out of favour to the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> he puts forth a Declaration for Liberty of Con<g ref="char:EOLhyphen"/>ſcience to the Diſſenters; he goes not to promote it in the Houſes; if we have Liberty, it muſt hang upon his own Will, or not at all. This the Parliament re<g ref="char:EOLhyphen"/>ſents, and as Illegal oppoſes it, and conſtrains him to Revoke his Declaration. Here was there a plain Con<g ref="char:EOLhyphen"/>queſt, and indeed Triumph over the Diſpencing Power of our Kings: And yet <hi>James</hi> the Second, taking the Throne, reſumes the ſame, and perſiſts in it with that Obſtinacy, as we all know, hath occaſioned our preſent Revolution.</p>
+            <p>The thing that gave the Crown and Clergy their Advantage, was an Error generally received by the com<g ref="char:EOLhyphen"/>mon Lawyers, even by Sir <hi>Edward Cook</hi> himſelf, that what Power in the days of Uſurpation was, <hi>de facto,</hi> ex<g ref="char:EOLhyphen"/>erciſed in <hi>England</hi> by the <hi>Popes,</hi> doth, <hi>de jure,</hi> belong to our <hi>Kings:</hi> Whereas indeed, it was not that Unaccount<g ref="char:EOLhyphen"/>able Power the <hi>Pope</hi> aſſumed, but the Ancient Power only exerciſed by the Kings of <hi>England,</hi> that was reſto<g ref="char:EOLhyphen"/>red and united to the Imperial Crown: Or, as I have
+<pb n="9" facs="tcp:42124:5"/>
+               <hi>de induſtria</hi> before diſtinguiſhed, it was not any <hi>Legiſla<g ref="char:EOLhyphen"/>tive Power</hi> without a Parliament, but the Power of <hi>Ju<g ref="char:EOLhyphen"/>riſdiction</hi> only was annexed thereunto.</p>
+            <p>There are theſe Reaſons for this do appear:
+<list>
+                  <item>1. From thoſe Acts, and all thoſe Acts of Parliament in <hi>Edward</hi> the 6th, and <hi>Elizabeth</hi>'s Reign, or any other ſince <hi>Henry</hi> the 8th, which have given to our Kings or Queens any ſuch Power as I have before mentioned: For ſuch Acts muſt have been needleſs, if they had that Power, and more than that, by their Supremacy only.</item>
+                  <item>2. From thoſe Inſtances that may be given, and more particular<g ref="char:EOLhyphen"/>ly in the matter of Marriages, wherein the <hi>Popes</hi> took power to Diſpence, and our Kings, don't and can't, with<g ref="char:EOLhyphen"/>out the Parliament, as in the late known Lord <hi>Roſs</hi>'s Caſe<g ref="char:punc">▪</g>
+                  </item>
+                  <item>3. <hi>Ab incommodo.</hi> If theſe Lawyers were in the right, then muſt not only all the Arbitrary Proceedings of all our former Princes, which have been ſtill ſo much bla<g ref="char:EOLhyphen"/>med and redreſſed by Parliaments, but even the doings of our late King <hi>James</hi> the Second, (they being all and every one of them alike grounded upon this bottom) be juſtified againſt the whole Nation, and We con<g ref="char:EOLhyphen"/>demned.</item>
+                  <item>4. <hi>Ab Authoritate,</hi> From Authority greater than theſe Lawyers, and that is the Opinion of the Houſe of Commons; who in that Year (or a little be<g ref="char:EOLhyphen"/>fore) when the Judges gave King <hi>James</hi> ſuch a Power in Eccleſiaſticals, as I have before recited, did cauſe a Meſſage to be delivered to him from them by their Speaker, which I will ſet down in the words of the Journal: <hi>Mr. Speaker in his Speech to the King, declared, That his Majeſty was miſinformed if any Man ſhould deli<g ref="char:EOLhyphen"/>ver, That the King of</hi> England <hi>hath any Abſolute Power in himſelf, either to alter Religion, or to make any Law
+<pb n="10" facs="tcp:42124:6"/>concerning the ſame, otherwiſe than in Temporal Caſes, by conſent of Parliament:</hi> 1. Jac. 1. Fol. 567.569.</item>
+               </list>
+            </p>
+            <p>The truth is, That during the Reigns of <hi>Elizabeth, James</hi> the Firſt, <hi>Charles</hi> the Firſt, when Nonconformiſts were outed of their Miniſtry and Livings by the <hi>Canons,</hi> and not by <hi>legal Trials,</hi> and the ſame Deſpotical Power was exerciſed by thoſe Princes and the Biſhops againſt the <hi>Puritans,</hi> as was exerciſed by <hi>James</hi> the Second, the Eyes of our Churchmen were generally ſhut: But when thoſe Proceedings were turned againſt the <hi>Church,</hi> upon the very ſame Foundation, by the late King, I may righ<g ref="char:EOLhyphen"/>teouſly expect, that the Eyes of ſuch Men now, as well as others, eſpecially of ſome of the Learned (though they had the beam of <hi>Non-reſiſtance</hi> in them before) ſhould be opened to ſee and acknowledg theſe Truths, or Aſſertions of this Paper, <hi>viz.</hi> That it was not a Power of making Eccleſiaſtical Laws, but a Power only that be<g ref="char:EOLhyphen"/>longed to our Kings before the <hi>Pope's</hi> Uſurpation; that was reſtored to <hi>Henry.</hi> That our Ancient Kings had no Legiſlative Power out of Parliament. That all Canons derive their Force from the King, in his Legiſlative Ca<g ref="char:EOLhyphen"/>pacity, that is, as Incorporated with his two Houſes. That they could not of themſelves, before the firſt of <hi>Elizabeth,</hi> grant any Commiſſions for the exerciſe of Eccleſiaſtical Juriſdiction, which yet is leſs than Legiſla<g ref="char:EOLhyphen"/>tion. That the branch of that Law of <hi>Elizabeth</hi> gran<g ref="char:EOLhyphen"/>ting ſo much, being Repealed by <hi>Charles</hi> the Firſt, there can never be any other ſuch Courts legally Erected. That Benefices are a Free-hold, and that no Miniſter ought to be deprived of them but by his Peers, or Trial of a Jury. I will add, That the <hi>Subjection,</hi> which is re<g ref="char:EOLhyphen"/>quired in the Sacred Scripture, to the <hi>Higher Powers</hi> up<g ref="char:EOLhyphen"/>on
+<pb n="11" facs="tcp:42124:6"/>pain of <hi>Damnation,</hi> is a ſubjection to the Powers that <hi>Are,</hi> not to the Powers that are <hi>Not.</hi> Now the Pow<g ref="char:EOLhyphen"/>ers that <hi>Are,</hi> are the Powers according to the <hi>Conſtituti<g ref="char:EOLhyphen"/>on.</hi> In this Caſe then, let us hearken to Biſhop <hi>Bilſon,</hi> and let Biſhop <hi>Sanderſon</hi> be attended in other Caſes, wherein he was more skilful than in Politicks. <hi>If a Prince ſhould go about to Subject his Kingdom to a Fo<g ref="char:EOLhyphen"/>reign Realm, or change the Form of a Commonwealth from Impery to Tyranny,</hi> (that is from Regal to Deſpotical) <hi>or neglect the Laws Eſtabliſhed, to execute his Pleaſure: In theſe and other Caſes, that might be named, if the No<g ref="char:EOLhyphen"/>bles and Commons agree together to defend the ancient accuſtomed Liberty, Regiment and Laws, they are not to be accounted Rebels.</hi> In page 520. of his Book, about <hi>Subjection</hi> and <hi>Rebellion.</hi>
+            </p>
+            <p>Upon the whole that is here related, there may ariſe two Queſtions; which are to be held diſtinct, though apt to be confounded.</p>
+            <p>The firſt Queſtion is, If theſe things be ſo, what then ſhall we think indeed of the Power of the <hi>Biſhops?</hi> Un<g ref="char:EOLhyphen"/>to this, that which ſome Lawyers ſay, is, <hi>Edward</hi> the Sixth makes a Law, That the Biſhops ſhall hold no Courts, but in the King's Name. <hi>Mary</hi> Repeals this Law, (or this part of it). King <hi>James</hi> Repeals that of <hi>Mary.</hi> It follows; (ſay they) that <hi>Edward</hi>'s Statute muſt be Revived, and is of Force; If not, the <hi>Common Law</hi> ſtarts up, and that is declared therein, to ſay the ſame. Nevertheleſs, that other Lawyers have ſomething coun<g ref="char:EOLhyphen"/>ter to this, and ſome conſiderable thing too, I am not ſo malignant to the Biſhops, as not to believe: Let them that can, and can make it good, tell what.</p>
+            <p>The Second Queſtion is, And what ſhall we think of
+<pb n="12" facs="tcp:42124:7"/>the <hi>King</hi>'s Power, as to this preſent Eccleſiaſtical Com<g ref="char:EOLhyphen"/>miſſion? As for which, I muſt confeſs my ſelf ſo through<g ref="char:EOLhyphen"/>ly ſatisfied with the <hi>Good</hi> intended, that I will ſay no more than this only. Whereas, It was an Act of Parliament, wherely <hi>Henry</hi> and <hi>Edward</hi> had, and <hi>Elizabeth</hi> ſhould have had, the Power to appoint Commiſſions of this kind, that is Eccleſiaſtical ones; though with this diffe<g ref="char:EOLhyphen"/>rence, that thoſe Commiſſions were to <hi>Determine</hi> things, this Commiſſion only to <hi>Prepare</hi> things for the deter<g ref="char:EOLhyphen"/>mination of a Convocation, and the Parliament; which Power yet of <hi>Preparation,</hi> was to have been granted by an Act, if the Bill for Comprehenſion had firſt paſſed, as was intended by both Houſes; and ſo the ſame had been done <hi>Now,</hi> as in former <hi>Reigns,</hi> and then all had been well out of doubt. I do humbly move, both for the vindication of the Right of Parliaments, and Preſerva<g ref="char:EOLhyphen"/>tion alſo of the Honour and Pains of the Commiſſio<g ref="char:EOLhyphen"/>nated Biſhops and Doctors, and the taking what they have ſo kindly done in good part; That the Bill only for <hi>Comp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehenſion</hi> be the more ſuddenly revived, and that will make up the whole Matter.</p>
+            <p>When th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Act</hi> ſhould have gone before the <hi>Commiſſion,</hi> becauſe the <hi>Com<g ref="char:EOLhyphen"/>miſſion</hi> ſhould have bin <hi>Authorized</hi> by the <hi>Act;</hi> to put the <hi>Commiſſion</hi> before the <hi>Act,</hi> hath bin to put the <hi>Cart</hi> (as we ſay) before the <hi>Horſe:</hi> And conſe<g ref="char:EOLhyphen"/>quently, if the Bill be revived, and paſſes, and the Commiſſioners Autho<g ref="char:EOLhyphen"/>rized thereby to preſent what they have <hi>Prepared</hi> to the <hi>Convocation,</hi> and the <hi>Convocation</hi> what they ſhall <hi>Determine</hi> thereupon to the <hi>Parliamens,</hi> then will the <hi>Horſe</hi> be <hi>re-duired</hi> before the <hi>Cart,</hi> and we ſhall <hi>drive o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fair<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> they being both <hi>ſet right.</hi> The Truth is, the main thing which <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Comprehenſion,</hi> is the buſineſs to be attended; and let but that (which is already in the Bill) be Eſtabliſhed, the ſeveral things, by way of Improvement thereof, with re<g ref="char:EOLhyphen"/>ſpect to the Book of <hi>Common Prayer,</hi> the Book of <hi>Orders,</hi> the Book of <hi>Canons,</hi> the <hi>Government</hi> and <hi>Diſcipline</hi> of the Church (which laſt, do require a more profound Reformation) may ſtay a due time to receive Perfection. They muſt have time to be <hi>Debated,</hi> to be <hi>Compounded,</hi> and <hi>God</hi> knows when ſo great a Work can be done. There is no need, no reaſon that we wait for the <hi>Act</hi> of <hi>Comprehenſion</hi> till then, unleſs we tarry (and it be ſome Ill Mens Plot) to have non: at all.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42124:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
